@@ -1,1 +1,1 @@
-# Spotfire JavaScript Timer and Python Power to Auto Reload Data
+# Spotfire JavaScript Timer and IronPython to Auto Reload Data
